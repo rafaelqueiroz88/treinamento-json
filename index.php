@@ -13,4 +13,5 @@
     curl_exec($ch);
     //Fechando o cUrl
     curl_close($ch);
+    //Fim
 ?>
